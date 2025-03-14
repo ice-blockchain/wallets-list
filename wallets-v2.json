@@ -7,7 +7,7 @@
     "bridge": [
       {
         "type": "js",
-        "key": "ionmask"
+        "key": "ion"
       }
     ],
     "platforms": ["chrome"]
