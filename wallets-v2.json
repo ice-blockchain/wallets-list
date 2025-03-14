@@ -1,0 +1,15 @@
+[
+  {
+    "app_name": "ionmask",
+    "name": "ION Wallet",
+    "image": "https://raw.githubusercontent.com/ice-blockchain/ion-chrome-wallet/refs/heads/ion-mainnet/public/ion-logo128.png",
+    "about_url": "https://ice.io/",
+    "bridge": [
+      {
+        "type": "js",
+        "key": "ionmask"
+      }
+    ],
+    "platforms": ["chrome"]
+  }
+]
